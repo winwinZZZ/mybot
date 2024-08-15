@@ -6,7 +6,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 
 # 设置环境变量
 BASE_URL = 'https://api.xty.app/v1'
-os.environ['OPENAI_API_KEY'] = 'sk-q5uw8vzse5shXNXL94B0B7FbB18741349f661a0f0d332dD7'
+os.environ['OPENAI_API_KEY'] = '7'
 os.environ['OPENAI_API_BASE'] = BASE_URL
 
 
